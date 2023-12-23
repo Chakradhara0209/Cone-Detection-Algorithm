@@ -7,7 +7,7 @@ Significant advancement have been achieved in comprehending the aspects of road 
 
 Project Description
 -------------------
-In this project, a trail video is imported to matlab for video labeling & then exporeted to workspace, and an alogorith is developed to detect the cone. Deep learing-based approaches using conventional neural networks(YOLO v2) to detect object(cone).
+In this project, a trail video is imported to matlab for video labeling & then exported to workspace, and an alogorith is developed to detect the cone. Deep learing-based approaches using conventional neural networks(YOLO v2) is used to detect object(cone).
 process goes through in this order:
 - Label Data
 - Design & Train a Deep Network
