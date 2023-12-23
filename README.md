@@ -13,7 +13,7 @@ process goes through in this order:
 - Design & Train a Deep Network
 - Deploy Trained Model to GPUs
 
-To finish up the algoruthm to deploy trained model to GPU, these steps are taken care of:
+To finish up the algorithm to deploy trained model to GPU, these steps are taken care of:
 - Data Label
 - Convert ground truth object into training data
 - Design YOLOv2 Network
